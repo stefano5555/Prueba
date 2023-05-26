@@ -1,0 +1,30 @@
+.inputs{
+  margin: 0 30%;
+  text-align: center;
+}
+
+img {
+  margin: 30px;
+}
+
+body {
+  background-color: #DDE6ED;
+  color: #27374D;
+}
+
+.input-group-text{
+  background-color: #526D82;
+  
+}
+
+.form-control{
+  background-color: #9DB2BF;
+}
+
+.exito {
+  background-color: greenyellow;
+}
+
+.fallado {
+  background-color: red;
+}
